@@ -1,3 +1,5 @@
+//todo: make this readme look nice
+
 # T3 Gallery
 
 ## TODO 
